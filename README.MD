@@ -1,16 +1,17 @@
 # Binary Coded GA
 ### Python code for binary coded genetic algorithm
 
-## Roulette Wheel Reproduction Scheme
-## Two Point Crossover
-## Bitwise Mutation
+## Schemes used:
+	Roulette Wheel Reproduction Scheme
+	Two Point Crossover
+	Bitwise Mutation
 
 ## Results Obtained on some Test Functions :
 
 ### Alpine N.2 Function (Maximization Problem)
     Obtained ===>
             x1 = 7.917053
-	    x2 = 7.917053
+	    	x2 = 7.917053
     function Value = 7.885601
 
     Actual ===>
